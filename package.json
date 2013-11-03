@@ -1,0 +1,12 @@
+{
+  "name": "dataview-extra",
+  "version": "0.0.1",
+  "author": "43081j",
+  "description": "DataView extra functionality",
+  "main": "./dist/dataview-extra.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/43081j/dataview-extra.git"
+  },
+  "license": "MIT"
+}
