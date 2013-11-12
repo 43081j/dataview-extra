@@ -3,6 +3,9 @@
  * 43081j
  * License: MIT, see LICENSE
  */
+
+// taken from https://gist.github.com/boushley/5471599
+// which is based on http://ciaranj.blogspot.de/2007/11/utf8-characters-encoding-in-javascript.html
 DataView.decodeUtf8 = function decodeUtf8(arrayBuffer) {
   var result = "";
   var i = 0;
